@@ -134,8 +134,8 @@ AUTH_USER_MODEL = 'main.AdvUser'
 
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'seitakhunova@gmail.com'
-EMAIL_HOST_PASSWORD = '26072018AtayRoza!'
+EMAIL_HOST_USER = 'aaaaa@gmail.com'
+EMAIL_HOST_PASSWORD = '1111111'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
